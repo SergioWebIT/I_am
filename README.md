@@ -1,10 +1,7 @@
 
-<img src="https://github.com/JulkA-Naz/JulkA-Naz/blob/main/my-git.png" alt="Hello World" width="400" align="center"/>
-<!-- ![Hello World](https://github.com/JulkA-Naz/JulkA-Naz/blob/main/my-git.jpg) -->
-<!-- <h1 align="center">👋 Hello World, I'm Julia!</h1>
-<h3 align="center">And I'm an HTML-coder</h3> -->
+<img src="https://github.com/SergioWebIT/I_am/edit/main/my-git.png" alt="Hello World" width="400" align="center"/>
 
-- 📝 A well-stated problem is half-solved. (Charles Kettering. Inventor, engineer)
+- 😁 A well-stated problem is half-solved. (Charles Kettering. Inventor, engineer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
