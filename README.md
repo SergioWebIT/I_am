@@ -1,5 +1,5 @@
 
-<img src="https://github.com/SergioWebIT/I_am/main/my-git.png" alt="Hello World" width="400" align="center"/>
+<img src="https://github.com/SergioWebIT/I_am/blob/main/my-git.png" alt="Hello World" width="400" align="center"/>
 
 - 😁 A well-stated problem is half-solved. (Charles Kettering. Inventor, engineer)
 
